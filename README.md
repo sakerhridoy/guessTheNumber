@@ -1,2 +1,2 @@
 ### JavaScript project 01
-view output in consol log
+view output in consol
